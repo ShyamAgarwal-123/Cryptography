@@ -1,5 +1,5 @@
 #Download all the files from the cryptography code files folder and put all of them in the same folder
-#Or Download the entire repo as a Zip folder from the dropdown which you will get by clicking on the code button on the hand side
+#Or Download the entire repo as a Zip folder from the dropdown which you will get by clicking on the code button on the Righthand side and then Extract it and open the folder in IntelliJ IDE
 #Download the Demo file from the demo folder or use the link- https://docs.google.com/document/d/1hZ90sbKhMGPtpMKDBsXRlwB7w0vLPj23s4RIiILi80U/edit?usp=sharing
 #all the steps to run the code are also mentioned with screenshots in the demo file
 
